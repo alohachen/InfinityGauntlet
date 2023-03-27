@@ -1,4 +1,3 @@
 # InfinityGauntlet
-![image](cover.png)
+![image](Cover.png)
 
-Updated soon.
