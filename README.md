@@ -1,3 +1,3 @@
 # InfinityGauntlet
-![image](Cover.png)
+![image](Cover.jpg)
 
