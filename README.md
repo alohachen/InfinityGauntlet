@@ -9,5 +9,5 @@ We proposes a novel fingerprint brute-force attack on off-the-shelf smartphones 
 Some of our other research on the security of biometric authentication:
 
 1. https://www.blackhat.com/us-19/briefings/schedule/#biometric-authentication-under-threat-liveness-detection-hacking-16130
-2. Demonstration of presentation attacks on multiple fingerprint devices. https://2019.geekpwn.org
+2. https://www.hackread.com/hackers-unlock-smartphone-fingerprints-glass-of-water/
 3. https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/
