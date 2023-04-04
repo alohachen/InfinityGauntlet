@@ -1,2 +1,2 @@
-1. Please open the project in STM32CubeIDE.
-2. InfinityGauntlet/kernel is an ultra-lightweight RTOS written by myself.
+# Please open the project in STM32CubeIDE.
+# InfinityGauntlet/kernel is an ultra-lightweight RTOS written by myself.
